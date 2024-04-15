@@ -35,7 +35,7 @@ You can run this code locally with a few easy steps.
 
 1. Clone the repository
 ```bash
-https://github.com/kuleafenu/customizable-web-crawler.git
+https://github.com/Abayie/webcrawler.git
 ```
 
 2. Click the link below for a comprenhensive tutorial on how to set-up the project environment.
